@@ -35,5 +35,8 @@
 <h3 align="center">📊 Stats</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=exul4nzs&theme=tokyonight&hide_border=true" alt="exul4nzs's Stats" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=&preferLogin=false">    <img  alt="exul4nzs's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/exul4nzs?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false" />  </a>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=exul4nzs&theme=tokyonight" alt="exul4nzs's Stats" />
 </p>
