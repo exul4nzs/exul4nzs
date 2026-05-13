@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&color=6C4CF7&center=true&vCenter=true&width=435&lines=hey,+I'm+Bartley+Josh;&repeat=false&single_line=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&color=6C4CF7&center=true&vCenter=true&width=435&lines=hey,+I'm+Bartley+Josh;&repeat=false&single_line=true" alt="hey, I'm Bartley Josh" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=6C4CF7&width=435&lines=learning+Computer+Engineering;passionate+about+everything+software;obsessed+with+anything+electronics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=6C4CF7&width=435&lines=learning+Computer+Engineering;passionate+about+everything+software;obsessed+with+anything+electronics" alt="Bio" />
   </a>
 </p>
 
@@ -41,4 +41,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=exul4nzs&show_icons=true&theme=transparent&title_color=6C4CF7&icon_color=6C4CF7&text_color=ffffff&border_color=6C4CF7&bg_color=00000000" alt="GitHub Stats" />
 </p>
-
