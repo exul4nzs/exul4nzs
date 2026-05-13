@@ -35,14 +35,5 @@
 <h3 align="center">📊 Stats</h3>
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exul4nzs&layout=compact&theme=transparent&title_color=6C4CF7&icon_color=6C4CF7&text_color=ffffff&border_color=6C4CF7&bg_color=00000000&cache_seconds=7200&langs_count=8" alt="Top Languages" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=exul4nzs&show_icons=true&theme=transparent&title_color=6C4CF7&icon_color=6C4CF7&text_color=ffffff&border_color=6C4CF7&bg_color=00000000&cache_seconds=7200&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=exul4nzs&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="exul4nzs's Stats" />
 </p>
