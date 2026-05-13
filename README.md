@@ -35,5 +35,5 @@
 <h3 align="center">📊 Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=exul4nzs&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="exul4nzs's Stats" />
+  <img src="https://streak-stats.demolab.com?user=exul4nzs&theme=tokyonight&hide_border=true" alt="exul4nzs's Stats" />
 </p>
